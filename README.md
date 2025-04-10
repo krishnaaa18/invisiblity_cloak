@@ -1,4 +1,4 @@
-Overview
+Overview \n
 This project simulates an invisibility cloak effect using a webcam and real-time color detection. The effect is achieved by removing a specific color (e.g., light blue or light green) from the video feed and replacing it with the background, making the object with that color appear invisible.
 
 Technologies Used
